@@ -8,7 +8,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [https://github.com/flershwhtat/order-summary](https://github.com/flershwhtat/order-summary)
+- Solution URL: [https://github.com/flershwhtat/order-summary](https://github.com/flershwhtat/order-summary-component)
 - Live Site URL: [https://order-summary-flersh.netlify.app](https://order-summary-flersh.netlify.app)
 
 
