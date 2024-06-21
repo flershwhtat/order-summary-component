@@ -3,7 +3,7 @@
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.png)
 
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-card-3XPMI3Dlxi). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-card-NtUbxE-Svy). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 ### Links
